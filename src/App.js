@@ -5,7 +5,7 @@ import Todos from "./Todos";
 class App extends React.Component {
   state = {
     todos: [
-      { id: 1, content: "watch the tutorial" },
+      { id: 1, content: "watch the tutorials" },
       { id: 2, content: "push update to github" },
     ],
   };
